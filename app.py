@@ -123,6 +123,20 @@ def render_agent_reasoning(result: dict, action_taken: str):
     elif action_taken == "no_action":
         st.info("Action: No action (monitoring only).")
 
+    # Explainable AI: why this decision
+    with st.expander("Explainability — why this decision?"):
+        st.caption("The agent uses rule-based logic (no black-box model). You can trace every decision to specific data and a clear rule.")
+        st.markdown("**Data that drove this decision:**")
+        st.markdown(f"- Evidence cited: *{result['evidence']}*")
+        st.markdown(f"- Confidence **{result['confidence_score']}** → "
+                    + ("**below 0.8** → human approval required (escalated)." if result["confidence_score"] < 0.8 else "**≥ 0.8** → autonomous action allowed if guardrail passed."))
+        st.markdown("**Outcome:** " + (
+            "Proposed action was **not** executed automatically; operators were alerted."
+            if action_taken == "escalated" else
+            "Proposed action was **executed** (reroute)." if action_taken == "reroute" else
+            "No intervention; monitoring only."
+        ))
+
 
 def main():
     st.set_page_config(page_title="Payment operations", page_icon="📊", layout="wide")
