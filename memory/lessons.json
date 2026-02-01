@@ -1,0 +1,3174 @@
+[
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912456.620428,
+    "metadata": {
+      "proposed_action": "Take no action",
+      "confidence": 0.4
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912461.6215105,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912466.6360126,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912471.644738,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912476.6502678,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912481.6572063,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912486.6595056,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912491.663184,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912496.6676805,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912501.6731114,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912506.683915,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912511.6961343,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912516.7030358,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912521.708938,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912526.7149322,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912531.7223067,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912536.7288954,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912541.7321613,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912546.735511,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912551.7452283,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912556.7489746,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912561.7544558,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912566.768167,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912571.7872453,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912576.7942119,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769912581.809744,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769912586.8166747,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769912591.821779,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769912596.838063,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769912601.844039,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912606.8530347,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912611.8640602,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912616.873237,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912621.889422,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912626.89433,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912631.9004068,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912636.9076066,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912641.911389,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912646.9242384,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912651.9363613,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912656.952633,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912661.963006,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912666.9839995,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769912671.9872577,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921007.6219227,
+    "metadata": {
+      "proposed_action": "Take no action",
+      "confidence": 0.4
+    }
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921012.6345642
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921017.6462002
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921022.65102
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921027.6618598
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921032.668112,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921037.6722584,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921042.6771963
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921047.6910038
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921052.6992166,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921057.7030718,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921062.7184083,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921067.7263958,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921072.7369738,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921077.742507,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921082.7606354,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921087.7768657,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921092.782504,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921097.7999516,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921102.8098562,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921107.8212726,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921112.830919,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921117.837271,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921122.8462512,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921127.8610015,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921132.8738878,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921137.8887362,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921142.896073,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921147.904029,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921152.912298,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921157.9216945,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921162.938806,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921167.9458132,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921172.954827,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921177.9628024,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921182.973173,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921187.9914248,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921193.013575,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921198.0194929,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921203.03433,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921208.0517151,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921213.06805,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921218.075399,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921223.0912037,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921228.0962605,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921233.1075304,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921238.1190681,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921243.1328542,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921248.1481347,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921253.1588805,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921258.172374,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921263.1763675,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921268.1817691,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921273.1844544,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921278.2016153,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921283.2219095,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921288.2291365,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921293.2386746,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921298.248912,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921303.257441,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921308.274799,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921313.2825649,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921318.2933733,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921323.3062687,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921328.314485,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921333.336865,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921338.361114,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921343.3802216,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921348.4000688,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921353.4211373,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921358.4401774,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921363.4570951,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921368.4690998,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921373.479388,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921378.4975157,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921383.5143876,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921388.5304077,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921393.5415983,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921398.56127,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921403.5711043,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921408.5860617,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921413.59912,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921418.6165733,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921423.6233165,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921428.633827,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921433.643247,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921438.669422,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921443.689117,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921448.6998842,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921453.713484,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921458.7353532,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921463.75048,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921468.7714586,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921473.7897663,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921478.803345,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921483.8236809,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921488.8441887,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921493.8681538,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921498.8962097,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921503.9129207,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921508.9290478,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921513.9512894,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921518.9666626,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921523.9775503,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921528.9924018,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921534.0070987,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921539.0266986,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921544.0415435,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921549.0620217,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921554.0709138,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921559.0877259,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921564.1001737,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921569.1205318
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921574.1356723,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921579.1459448,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921584.1636014,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921589.185761,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921594.193582,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921599.2075498,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921604.2228494,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921609.2322164,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921614.2496471,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921619.275784,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921624.296132,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921629.3204517,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921634.3372264,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921639.363373,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921644.370101,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921649.3872883,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921654.3978188,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921659.4164333,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921664.4241254,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921669.4460979,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921674.4562736,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921679.4752498,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921684.4982905,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921689.5188363,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921694.5343938,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921699.5541997,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921704.5665603,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921709.573678,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921714.5897527,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921719.600766,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921724.6181097,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921729.6313472,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921734.6444283,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921739.6601274,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921744.6736112,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921749.6924603,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921754.7059345,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921759.726742,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921764.7345939,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921769.7576551,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921774.7758179,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921779.787238,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921784.7993424,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921789.8231592,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921794.8412175,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921799.8555036,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921804.874731,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921809.8985722,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921814.9229238,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921819.9528627,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921824.979591,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921830.0021763,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921835.0287921,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921840.0603805,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921845.0877101,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921850.1112728,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921855.139233,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921860.1655066,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921865.1829436,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921870.1952248,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921875.2205176,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921880.2342408,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921885.25339,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921890.2684388,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921895.2904267,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921900.3137653,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Normal variance (no significant anomaly)",
+    "action": "Take no action",
+    "outcome": "MONITORED",
+    "ts": 1769921905.3268492
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921910.3469899,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921915.3601444,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921920.3776176,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921925.3968992,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921930.4088354,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921935.4315293,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921940.4407809,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921945.4615517,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921950.4771948,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921955.4905424,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921960.5101354,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921965.5358849,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921970.5515487,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921975.5809522,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921980.595746,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921985.6030872,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921990.6238265,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769921995.672067,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922000.7049253,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922005.7279127,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922010.7417836,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922015.7590263,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922020.7760723,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922025.7980177,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922030.8090281,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922035.836061,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922040.861994,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922045.8905165,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922050.9100015,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922055.929803,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922060.9460185,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922065.9680672,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922070.9905663,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922076.0097997,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922081.031485,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922086.0608284,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922091.07827,
+    "metadata": {
+      "proposed_action": "Adjust retry policy",
+      "confidence": 0.75
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922096.1063278,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922101.1422722,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922106.169959,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922111.1867056,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922116.2114966,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922121.2311604,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922126.2501888,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922131.2705605,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922136.2895293,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922141.3146968,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922146.3349543,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922151.362492,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922156.3903675,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922161.4207294,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922166.4716535,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922171.5239286,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922176.5437913,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922181.5734522,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922186.5963435,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922191.6278408,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922196.654133,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922201.6801374,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922206.697532,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922211.7130222,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922216.7365487,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922221.761774,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922226.7770102,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922231.802463,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922236.814394,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "Reroute traffic",
+    "outcome": "EXECUTED",
+    "ts": 1769922241.8366303,
+    "metadata": {
+      "action_key": "reroute"
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922246.8596873,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922251.8821015,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922256.8990667,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922261.921703,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922266.9466963,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922271.9632392,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922276.9905202,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922282.0257764,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922287.055328,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922292.069375,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922297.0973737,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922302.124701,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922307.1526964,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922312.1867397,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922317.2096074,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922322.2269754,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922327.2583787,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922332.2739184,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922337.3088927,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922342.3311775,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922347.3596954,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922352.3849058,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922357.4171886,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922362.4511044,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922367.4774835,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922372.5099945,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922377.539423,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922382.5642822,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Possible bank/issuer or network issue; unclear from data",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922387.5852416,
+    "metadata": {
+      "proposed_action": "Alert human operators",
+      "confidence": 0.65
+    }
+  },
+  {
+    "diagnosis": "Bank/issuer degradation",
+    "action": "ALERT_ONLY",
+    "outcome": "ESCALATED",
+    "ts": 1769922392.6154852,
+    "metadata": {
+      "proposed_action": "Suppress failing path",
+      "confidence": 0.78
+    }
+  }
+]
